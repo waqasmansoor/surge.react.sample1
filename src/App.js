@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello world from waqas
+          Hello world from waqas with auto deploy
         </p>
         <a
           className="App-link"
